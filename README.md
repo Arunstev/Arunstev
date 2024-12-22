@@ -1,6 +1,6 @@
-## Hi there! I'm Arun but you can call me Stev👋
+## Hi there!👋🏻 I'm Arun but you can call me Stev.
 
-Welcome to my GitHub profile, I'm an aspiring (and occasionally procrastinating) developer with a focus on Java development, frontend & backend programming, and trying to catch up with relevant trends in tech (or at least pretending to).
+Welcome to my GitHub profile, I'm an aspiring (and occasionally procrastinating) developer with a focus on Java, frontend & backend programming, and trying to catch up with relevant trends in tech (or at least pretending to).
 
 ## About me.
 I'm a professional procrastinator on a mission to outgrow mediocrity and become a not-so-ordinary programmer.
